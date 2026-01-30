@@ -1,7 +1,7 @@
 # Estructuras de Datos y Algoritmos en Python
 
 ### Descripción
-Este repositorio contiene una colección de implementaciones y ejercicios prácticos realizados en la materia de **Estructura de Datos** de la **Licenciatura en Informática (UNAHUR)**.
+Este repositorio contiene una colección de ejercicios prácticos y modelos de parcial realizados en la materia de **Estructura de Datos** de la **Licenciatura en Informática (UNAHUR)**.
 
 
 ### Contenido 
